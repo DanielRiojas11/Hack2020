@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="personal">PERSONAL</string>
+    <string name="paciente">PACIENTE</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="qr">QR</string>
+    <string name="historial">Historial</string>
+    <string name="menu">Menu</string>
+    <string name="lista_de_espera">Lista de ESpera</string>
+    <string name="cartilla_de_vacunaci_n">Cartilla de Vacunación</string>
 </resources>
